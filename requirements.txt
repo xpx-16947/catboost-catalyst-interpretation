@@ -1,0 +1,14 @@
+bayesian-optimization==1.4.3
+catboost>=1.2.5,<1.3
+jupyterlab>=4.1,<5
+ipykernel>=6.29,<7
+lightgbm>=4.3,<5
+matplotlib>=3.8,<4
+numpy>=1.26,<2
+openpyxl>=3.1,<4
+pandas>=2.1,<3
+scikit-learn>=1.3,<1.6
+scipy>=1.11,<2
+seaborn>=0.13,<1
+shap>=0.45,<0.47
+xgboost>=2.0,<3
