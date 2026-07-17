@@ -1,4 +1,4 @@
-# Reproducible machine-learning analysis of CO₂ methanation catalysts
+# Quantifying Categorical Catalyst Descriptors for CO₂ Methanation Design via CatBoost Based Interpretable Machine Learning
 
 This repository contains the curated database, trained CatBoost model, precomputed SHAP arrays, and Jupyter notebooks used for the machine-learning analysis and manuscript figures. All notebooks are provided without execution outputs.
 
